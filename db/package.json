@@ -1,0 +1,23 @@
+{
+    "name": "db",
+    "version": "1.0.0",
+    "description": "simple iot platform -db module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint": "standard"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kateMoscoso/node-iot.git"
+    },
+    "author": "Katherin <kmoscosoleon@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kateMoscoso/node-iot/issues"
+    },
+    "homepage": "https://github.com/kateMoscoso/node-iot#readme",
+    "devDependencies": {
+        "standard": "^12.0.1"
+    }
+}
